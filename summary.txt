@@ -1,0 +1,9 @@
+
+    Product Name: Alexa AI
+    Description: unsafe
+    Sentiment: NEGATIVE (Confidence: 1.0)
+    Emotion: anger (Confidence: 0.42)
+    Ethical Risk: High
+    Safety Score: 41.0%
+    Verdict: Unsafe
+    
